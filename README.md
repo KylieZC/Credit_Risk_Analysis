@@ -26,7 +26,9 @@ The high risk recall scores is 63%.
 ### Cluster Centroids model
 ![cluster](Resources/cluster.png)
 The balanced accuracy score is about 66.2%.
+
 The high risk precision is 1%. 
+
 The high risk recall scores is 69%. 
 
 ### SMOTEENN model
@@ -54,4 +56,7 @@ The high risk precision is 9%.
 The high risk recall scores is 92%. 
 
 ## Summary
-Compare the Random Oversampling model and SMOTE Oversampling model, 
+All modules are used to predict the credit risk. 
+The SMOTE Oversampling model did not get better results after resample. 
+Easy Ensemble AdaBoost Classifier has the highest accuracy of 93.17%, so I recommend this model because it has the highest accuracy score and reduces the most credit risk. 
+
