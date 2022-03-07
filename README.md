@@ -58,5 +58,5 @@ The high risk recall scores is 92%.
 ## Summary
 All modules are used to predict the credit risk. 
 The SMOTE Oversampling model did not get better results after resample. Although resampling can attempt to address imbalance, it does not guarantee better results.
-Easy Ensemble AdaBoost Classifier has the highest accuracy of 93.17%, so I recommend this model because it has the highest accuracy score and reduces the most credit risk. 
+Easy Ensemble AdaBoost Classifier has the highest accuracy of 93.17%, so it has the highest accuracy score and reduces the most credit risk. However, I do not recommend any module for commercial use in this case.
 
