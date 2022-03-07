@@ -8,7 +8,9 @@ This project uses Python and different metrics of six machine-learning models fo
 ### Random Oversampling model
 ![over](Resources/over.png)
 The balanced accuracy score is about 65.47%.
+
 The high risk precision is 1%. 
+
 The high risk recall scores is 72%. 
 
 
