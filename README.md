@@ -38,7 +38,7 @@ The high risk precision is 3%.
 The high risk recall scores is 67%. 
 
 •	Easy Ensemble AdaBoost Classifier
-![easy.png](Resources/)
+![easy](Resources/easy.png)
 The balanced accuracy score is about 93.17%.
 The high risk precision is 9%. 
 The high risk recall scores is 92%. 
